@@ -13,9 +13,13 @@ Features
 * Normalization
 * Fuzzy Search
 
-Support
+Available Models
 
 * eCommerce Model
 * Messaging Model
 * User Authentication / ARBAC Model
 * Zip Code Lookup Tables
+
+Supported Frameworks
+
+* Laravel
