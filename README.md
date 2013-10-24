@@ -21,6 +21,7 @@ Available Models
 * User Authentication / ARBAC Model
 * Zip Code Lookup Tables
 
-Supported Frameworks
+Supported Languages
 
-* Laravel
+* PHP
+* .NET
