@@ -1,7 +1,7 @@
-scrappy
+Scrappy MySQL Framework
 =======
 
-Scrappy MySQL Framework
+Scrappy was founded on the principle of consolidating development best practices and common data sources into a universal data set that can be leveraged for any application.
 
 Scrappy is a universal MySQL framework designed to provide a base structure for developing back-end relational databases and systems. It contains common lookup tables such as zip codes and helper functions that allow development teams to bootstrap new applications quickly and seamlessly.
 
