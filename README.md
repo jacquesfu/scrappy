@@ -25,7 +25,8 @@ Available Models and Tables
 * Project Model
 * Accounting Model
 * Role-based Security Model
-* System Integration Model
+* Web Services Model
+* System Configurations Model
 * US States, Cities and Zip Codes
 
 Supported Languages
