@@ -33,3 +33,14 @@ Supported Languages
 * PHP
 * .NET
 * JAVA
+
+
+## Installation Methods
+
+Bash
+
+MySQL Workbench or other SQL Tools
+
+Composer
+
+Library
