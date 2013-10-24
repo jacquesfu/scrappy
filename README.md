@@ -12,6 +12,7 @@ Features
 * InnoDB Compatible
 * Normalization
 * Fuzzy Search
+* Multi-language support
 
 Available Models
 
